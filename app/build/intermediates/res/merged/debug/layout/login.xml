@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:id="@+id/f2"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:background="#fffafafa">
+<RelativeLayout
+    android:layout_margin="25dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <EditText
+        android:id="@+id/editTextUN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="Username"
+        android:layout_above="@+id/editTextPW"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="28dp" />
+
+    <EditText
+        android:id="@+id/editTextPW"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editTextUN"
+        android:layout_alignStart="@+id/editTextUN"
+        android:hint="Password"
+        android:layout_centerVertical="true"
+        android:ems="10"
+        android:inputType="textPassword" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="68dp"
+        android:text="LOGIN"
+        android:textColor="@android:color/black"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buttonsignin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editTextPW"
+        android:layout_below="@+id/editTextPW"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="69dp"
+        android:text="Sign IN"
+        android:textColor="@android:color/holo_blue_bright"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/buttonclear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/buttonsignin"
+        android:layout_marginRight="50dp"
+        android:layout_alignRight="@+id/editTextPW"
+        android:text="Clear"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="20dp" />
+
+  <TextView
+    android:id="@+id/textView9"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/buttonsignin"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="43dp"
+    android:textSize="20sp"
+    android:text="New User? Sign Up!" />
+
+</RelativeLayout>
+  </FrameLayout>

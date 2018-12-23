@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "884503897505",
+    "firebase_url": "https://medleaf-e31de.firebaseio.com",
+    "project_id": "medleaf-e31de",
+    "storage_bucket": "medleaf-e31de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884503897505:android:cb225f36b375f7de",
+        "android_client_info": {
+          "package_name": "com.example.hp.navigationdraw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884503897505-uc6dagsl4rc901knbgks8p41r31scneg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.navigationdraw",
+            "certificate_hash": "dff1e1be80ba2db1bb62f6e0518af24139d2fdad"
+          }
+        },
+        {
+          "client_id": "884503897505-htn4nd6f1t7jhkjhi0btlo2ejh4m2rgo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "884503897505-htn4nd6f1t7jhkjhi0btlo2ejh4m2rgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrg7U5HswsJeLTtLbE7pLaDwoa7mS5XCs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884503897505-htn4nd6f1t7jhkjhi0btlo2ejh4m2rgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

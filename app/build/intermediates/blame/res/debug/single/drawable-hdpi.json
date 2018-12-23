@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mail.png",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\drawable-hdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone.png",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_f.png",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\drawable-hdpi\\logo_f.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loc.png",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\loc.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home.png",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\home.png"
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_secondactivityplant.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_secondactivityplant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_firstactivityplant.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_firstactivityplant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\first_layout.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\first_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\f585742750d2b6172fa7a8c11a5eca4773202b37\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\66f2dfeda7f3f2efbd7b125b840ca0ad9b3de6e9\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\66f2dfeda7f3f2efbd7b125b840ca0ad9b3de6e9\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_viewe.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\list_viewe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lemon_home.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_lemon_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ashwagandha_home.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_ashwagandha_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_med__info.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_med__info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\f585742750d2b6172fa7a8c11a5eca4773202b37\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\location.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\f585742750d2b6172fa7a8c11a5eca4773202b37\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\f585742750d2b6172fa7a8c11a5eca4773202b37\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\2c163f599e2178aee12252a7fe42fc1550a894e4\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_screen_2.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_screen_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\f585742750d2b6172fa7a8c11a5eca4773202b37\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\f585742750d2b6172fa7a8c11a5eca4773202b37\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_ex.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\listitem_ex.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_neem_home.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_neem_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\2c163f599e2178aee12252a7fe42fc1550a894e4\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_niruri_home.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_niruri_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nyct_home.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_nyct_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_screen_1.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_screen_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_trapa_home.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_trapa_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\2c163f599e2178aee12252a7fe42fc1550a894e4\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\f585742750d2b6172fa7a8c11a5eca4773202b37\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tulsi_home.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_tulsi_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_amma_home.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_amma_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\f585742750d2b6172fa7a8c11a5eca4773202b37\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\2c163f599e2178aee12252a7fe42fc1550a894e4\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thirdactivityplant.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_thirdactivityplant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\f585742750d2b6172fa7a8c11a5eca4773202b37\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\f585742750d2b6172fa7a8c11a5eca4773202b37\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\f585742750d2b6172fa7a8c11a5eca4773202b37\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\f585742750d2b6172fa7a8c11a5eca4773202b37\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_intro.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_main_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashscreen.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\66f2dfeda7f3f2efbd7b125b840ca0ad9b3de6e9\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\2c163f599e2178aee12252a7fe42fc1550a894e4\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\find_plants.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\find_plants.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\2c163f599e2178aee12252a7fe42fc1550a894e4\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_psor_home.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_psor_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\66f2dfeda7f3f2efbd7b125b840ca0ad9b3de6e9\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fourthactivityplant.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_fourthactivityplant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rauw_home.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_rauw_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\f585742750d2b6172fa7a8c11a5eca4773202b37\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\66f2dfeda7f3f2efbd7b125b840ca0ad9b3de6e9\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\support.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\f585742750d2b6172fa7a8c11a5eca4773202b37\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\2c163f599e2178aee12252a7fe42fc1550a894e4\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\2c163f599e2178aee12252a7fe42fc1550a894e4\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fifthactivityplant.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_fifthactivityplant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_screen_3.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_screen_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_solnum_home.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\activity_solnum_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera.xml",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\layout\\camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\2c163f599e2178aee12252a7fe42fc1550a894e4\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Hp\\.android\\build-cache\\660f63e537b36b682be6f27d65c06969be0daaaa\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    }
+]

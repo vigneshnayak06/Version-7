@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\logo.png",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\launch.png",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\mipmap-xxxhdpi\\launch.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\image1.png",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\mipmap-xxxhdpi\\image1.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon4.png",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon4.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon2.png",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon2.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon1.png",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\icon5.png",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon5.png"
+    },
+    {
+        "merged": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Hp\\Desktop\\Version-6-master\\Navigationdraw\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]
